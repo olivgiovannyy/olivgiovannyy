@@ -97,17 +97,11 @@ Estou construindo minha trajetória na área de tecnologia, unindo **lógica de 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2007oliveiragiovanny-dot&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC1616&icon_color=CC1616" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=2007oliveiragiovanny-dot&theme=radical&hide_border=true&background=0D1117&ring=CC1616&fire=CC1616" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2007oliveiragiovanny-dot&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC1616" />
-</div>
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olivgiovannyy/olivgiovannyy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olivgiovannyy/olivgiovannyy/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/olivgiovannyy/olivgiovannyy/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 <div align="center">
